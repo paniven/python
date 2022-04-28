@@ -1,2 +1,2 @@
-# pythone
-pythone code
+# python
+python code
